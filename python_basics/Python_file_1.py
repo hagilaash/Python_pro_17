@@ -26,14 +26,14 @@ print("THE DIVISION OF G AND E IS",h)
 
 # 2.INTEGER DIVISION --> gves the value in integer
 i=g//e
-print("THE DIVISION OF G AND E IS",i)
+print("THE DIVISION OF G AND E IS",i) # gives quotient value 
 
 
 # MODULUS
 j = 13
 k= 5
 l = j % k
-print("THE MODULUS OF J AND K IS",l)
+print("THE MODULUS OF J AND K IS",l) # gives remainder value
 
 # POWER
 m= 2
